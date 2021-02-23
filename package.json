@@ -1,0 +1,25 @@
+{
+  "name": "mlh-events",
+  "version": "1.0.0",
+  "description": "This is a simple code for getting events at mlh ",
+  "main": "App.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/MLH-EVENTS.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/MLH-EVENTS/issues"
+  },
+  "homepage": "https://github.com/alestor123/MLH-EVENTS#readme"
+}
